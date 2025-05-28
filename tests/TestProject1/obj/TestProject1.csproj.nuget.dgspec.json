@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\tests\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\tests\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\tests\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\tests\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\Анастасия\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\tests\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\Анастасия\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Itmo.Dev.Editorconfig": {
+              "target": "Package",
+              "version": "[1.0.5, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Collections": {
+              "target": "Package",
+              "version": "[1.0.34, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Enumerable": {
+              "target": "Package",
+              "version": "[1.0.34, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.MemberAccessibility": {
+              "target": "Package",
+              "version": "[1.0.31, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Nullable": {
+              "target": "Package",
+              "version": "[1.0.34, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Properties": {
+              "target": "Package",
+              "version": "[1.0.34, )",
+              "versionCentrallyManaged": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.507, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "6.0.2",
+            "Itmo.Dev.Editorconfig": "1.0.5",
+            "Microsoft.NET.Test.Sdk": "17.11.0",
+            "SourceKit.Analyzers.Collections": "1.0.34",
+            "SourceKit.Analyzers.Enumerable": "1.0.34",
+            "SourceKit.Analyzers.MemberAccessibility": "1.0.31",
+            "SourceKit.Analyzers.Nullable": "1.0.34",
+            "SourceKit.Analyzers.Properties": "1.0.34",
+            "StyleCop.Analyzers": "1.2.0-beta.507",
+            "xunit": "2.9.0",
+            "xunit.runner.visualstudio": "2.8.2"
+          }
+        }
+      }
+    }
+  }
+}

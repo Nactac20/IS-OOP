@@ -1,0 +1,15 @@
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\bin\Debug\net8.0\Lab5.Application.Models.deps.json
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\bin\Debug\net8.0\Lab5.Application.Models.dll
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\bin\Debug\net8.0\Lab5.Application.Models.pdb
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\bin\Debug\net8.0\Lab5.Application.Models.xml
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.csproj.AssemblyReference.cache
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.AssemblyInfoInputs.cache
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.AssemblyInfo.cs
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.sourcelink.json
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.dll
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\refint\Lab5.Application.Models.dll
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.xml
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.pdb
+C:\Users\Анастасия\RiderProjects\Nactac20\src\Lab5\Lab5.Application.Models\obj\Debug\net8.0\ref\Lab5.Application.Models.dll
