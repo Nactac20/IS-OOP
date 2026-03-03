@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pxo5TxkEzlY=",
+  "dgSpecHash": "0kC39iGenmU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\src\\Lab5\\Lab5\\Lab5.csproj",
+  "projectFilePath": "C:\\Users\\Анастасия\\Desktop\\Лабораторные работы\\2 курс\\3 семестр\\IS-OOP\\src\\Lab5\\Lab5\\Lab5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Анастасия\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Анастасия\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

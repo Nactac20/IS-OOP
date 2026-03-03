@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "boQQRlna+vg=",
+  "dgSpecHash": "Z7ZNbTuTeeM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\src\\Lab5\\Lab5.Presentation.Console\\Lab5.Presentation.Console.csproj",
+  "projectFilePath": "C:\\Users\\Анастасия\\Desktop\\Лабораторные работы\\2 курс\\3 семестр\\IS-OOP\\src\\Lab5\\Lab5.Presentation.Console\\Lab5.Presentation.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Анастасия\\.nuget\\packages\\itmo.dev.editorconfig\\1.0.5\\itmo.dev.editorconfig.1.0.5.nupkg.sha512",
     "C:\\Users\\Анастасия\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

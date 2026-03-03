@@ -465,6 +465,24 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Lab4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Itmo.Dev.Editorconfig": "1.0.5",
+          "SourceKit.Analyzers.Collections": "1.0.34",
+          "SourceKit.Analyzers.Enumerable": "1.0.34",
+          "SourceKit.Analyzers.MemberAccessibility": "1.0.31",
+          "SourceKit.Analyzers.Nullable": "1.0.34",
+          "SourceKit.Analyzers.Properties": "1.0.34"
+        },
+        "compile": {
+          "bin/placeholder/Lab4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab4.dll": {}
+        }
       }
     }
   },
@@ -1123,11 +1141,17 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Lab4/1.0.0": {
+      "type": "project",
+      "path": "../../src/Lab4/Lab4.csproj",
+      "msbuildProject": "../../src/Lab4/Lab4.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Itmo.Dev.Editorconfig >= 1.0.5",
+      "Lab4 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.11.0",
       "SourceKit.Analyzers.Collections >= 1.0.34",
       "SourceKit.Analyzers.Enumerable >= 1.0.34",
@@ -1141,31 +1165,42 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Анастасия\\.nuget\\packages\\": {}
+    "C:\\Users\\Анастасия\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\tests\\Lab4.Tests\\Lab4.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Анастасия\\Desktop\\Лабораторные работы\\2 курс\\3 семестр\\IS-OOP\\tests\\Lab4.Tests\\Lab4.Tests.csproj",
       "projectName": "Lab4.Tests",
-      "projectPath": "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\tests\\Lab4.Tests\\Lab4.Tests.csproj",
+      "projectPath": "C:\\Users\\Анастасия\\Desktop\\Лабораторные работы\\2 курс\\3 семестр\\IS-OOP\\tests\\Lab4.Tests\\Lab4.Tests.csproj",
       "packagesPath": "C:\\Users\\Анастасия\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\tests\\Lab4.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Анастасия\\Desktop\\Лабораторные работы\\2 курс\\3 семестр\\IS-OOP\\tests\\Lab4.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Анастасия\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Анастасия\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Анастасия\\Desktop\\Лабораторные работы\\2 курс\\3 семестр\\IS-OOP\\src\\Lab4\\Lab4.csproj": {
+              "projectPath": "C:\\Users\\Анастасия\\Desktop\\Лабораторные работы\\2 курс\\3 семестр\\IS-OOP\\src\\Lab4\\Lab4.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1178,7 +1213,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -1278,7 +1314,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

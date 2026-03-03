@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9OBRx5F0U04=",
+  "dgSpecHash": "4wRPXGwP7bI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Анастасия\\RiderProjects\\Nactac20\\tests\\Lab1.Tests\\Lab1.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Анастасия\\Desktop\\Лабораторные работы\\2 курс\\3 семестр\\IS-OOP\\tests\\Lab1.Tests\\Lab1.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Анастасия\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Анастасия\\.nuget\\packages\\itmo.dev.editorconfig\\1.0.5\\itmo.dev.editorconfig.1.0.5.nupkg.sha512",
